@@ -32,7 +32,7 @@ class Symbol {
     } else {
       this.y += 1;
     }
-    hue=70+(hue+1)%150
+    hue=80+(hue+1)%80
   }
 }
 
